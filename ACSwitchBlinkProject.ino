@@ -19,7 +19,7 @@ Benefits:
   B5. Stand-alone solution, does not require USB connectivity to peripheral PCs or devices to operate.
 
 Topology description:
-  D1. AC switching topology is to integrate with control chip/board as per ...
+  D1. AC switching topology is to integrate with control chip/board as per 20250407 - SCH - AC Switch 'Blink' Project.pdf
 
 Further reading/research media:
   FR1. Simon Monk, Electronics Cookbook. Published by O'Reilly Media, Inc.

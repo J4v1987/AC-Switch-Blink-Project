@@ -25,7 +25,7 @@
 <br></br>
 <p>Benefits:</p>
 <p>B1. 97.5% enhance in mains power consumption compared to triac &amp; optocoupled switching topologies.</p>  
-<p>B2. Enhanced safety beneficial to user and control equipment via optocoupling as per corresponding isolation rating (e.g. 5000V).</p>
+<p>B2. Enhance electrical safety in benefit of user experience (UX) and control equipment via optocoupling as per corresponding isolation rating (e.g. 5000V).</p>
 <p>B3. Full AC to DC integration to embedded control systems (e.g. Arduino, Atmel, Microchip, among other C-based).</p>
 <p>B4. Off-the-shelf viability down to component level.</p>
 <p>B5. Stand-alone solution, does not require USB connectivity to peripheral PCs or devices to operate.</p>

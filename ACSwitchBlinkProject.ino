@@ -40,10 +40,10 @@ void setup() {
 
 // the loop function runs over and over again forever
 void loop() {
-  digitalWrite(9, HIGH);  // set the digital output on (HIGH is the voltage level)
-  digitalWrite(LED_BUILTIN, LOW);  // turn the onboard LED on (HIGH is the voltage level)
+  digitalWrite(9, HIGH);            // set the digital output on (HIGH is the voltage level)
+  digitalWrite(LED_BUILTIN, LOW);   // turn the onboard LED on (HIGH is the voltage level)
   delay(1000);                      // wait for a second
-  digitalWrite(9, LOW);   // set the digital output off by making the voltage LOW
+  digitalWrite(9, LOW);             // set the digital output off by making the voltage LOW
   digitalWrite(LED_BUILTIN, HIGH);  // turn the onboard LED on (HIGH is the voltage level)
   delay(1000);                      // wait for a second
 }

@@ -4,6 +4,7 @@
 <br></br>
 <p>Based in Arduino example: 01-Basics/Blink:</p>
 <p>Successful implementation results in a blinking domestic light bulb at a 0.5Hz frequency with 50% duty cycle.</p>
+
 ![VAC Blink](https://github.com/user-attachments/assets/62ec0bd7-f069-49bb-83c4-eea43b194cd1)
 
 
@@ -11,6 +12,7 @@
 <p>Topology Schematic:</p>
 <p>Note: components are to be dimensioned to suite AC switching application and local component availability</p>
 <p>glad to advise under request</p>
+
 ![20250407 - SCH - AC Switch 'Blink' Project](https://github.com/user-attachments/assets/28d0a585-1d72-4d4e-9d7c-bf1834e645e3)
 
 

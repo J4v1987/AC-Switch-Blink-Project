@@ -35,7 +35,7 @@
 <br></br>
 <p>Acknowledgements:
   <p>ACK1. Harvard-style references: MyBib Contributors (2019). Harvard Referencing Generator – FREE – (updated for 2019). [online] MyBib. Available at: https://www.mybib.com/tools/harvard-referencing-generator.</p>
-  <p>ACK2. Peer-checking and internet data scraping: Pi.ai. (2025). AVR PWM [thread]. Pi, your personal AI. [online] Available at: https://pi.ai.</p>
+  <p>ACK2. Peer-checking and internet data scraping: Pi.ai. (2025). Electronic Design [thread]. Pi, your personal AI. [online] Available at: https://pi.ai.</p>
 <br></br>
 <p>Further reading/research media:</p>
 <p>FR1.  Monk, S. (2017). Electronics Cookbook: Introducing MOSFETs. [online] https://learning.oreilly.com. Available at: https://learning.oreilly.com/videos/electronics-cookbook [Accessed Apr. 2025]..</p>

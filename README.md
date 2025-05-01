@@ -31,14 +31,20 @@
 <p>B5. Stand-alone solution, does not require USB connectivity to peripheral PCs or devices to operate.</p>
 <br></br>
 <p>Topology description:</p>
-<p>D1. AC switching topology is to integrate with control chip/board as per ...</p>
+<p>D1. AC switching topology is to integrate with control chip/board as per 20250407 - SCH - AC Switch 'Blink' Project.pdf</p>
+<br></br>
+<p>Acknowledgements:
+  <p>ACK1. Harvard-style references: MyBib Contributors (2019). Harvard Referencing Generator – FREE – (updated for 2019). [online] MyBib. Available at: https://www.mybib.com/tools/harvard-referencing-generator.</p>
+  <p>ACK2. Peer-checking and internet data scraping: Pi.ai. (2025). AVR PWM [thread]. Pi, your personal AI. [online] Available at: https://pi.ai.</p>
 <br></br>
 <p>Further reading/research media:</p>
-<p>FR1. Simon Monk, Electronics Cookbook. Published by O'Reilly Media, Inc.</p>
-<p>FR2. Paul Scherz, Simon Monk. Practical Electronics for Inventors, Fourth Edition, 4th Edition. Published by McGraw-Hill Education TAB. e-ISBN 978-1-25-958755-9.</p>
-<p>FR3. ARDUINO. Arduino Nano Reference Manual. SKU: A000005.</p>
-<p>FR4. ARDUINO. Arduino Nano Wiring Schematic. https://www.arduino.cc/en/uploads/Main/Arduino_Nano-Rev3.2-SCH.pdf.</p>
-<p>FR5. TEXAS INSTRUMENTS. LM1117. Sheet No.: SNOS412Q &ndash; FEBRUARY 2000 &ndash; REVISED JANUARY 2023.</p>
-<p>FR6. SHARP. PC817XxNSZ1B Series. Sheet No.: OP18002EN.</p>
-<p>FR7. ATMEL. ATMega328p. Sheet No.: 7810D-AVR-01/15.</p>
-<p>FR8. INFINEON. IRFP250NPbF. Sheet No.: Rev. 2.1, 2024-10-08.</p>
+<p>FR1.  Monk, S. (2017). Electronics Cookbook: Introducing MOSFETs. [online] https://learning.oreilly.com. Available at: https://learning.oreilly.com/videos/electronics-cookbook [Accessed Apr. 2025]..</p>
+<p>FR2.  Paul Scherz, Simon Monk. Practical Electronics for Inventors, Fourth Edition, 4th Edition. Published by McGraw-Hill Education TAB. e-ISBN 978-1-25-958755-9.</p>
+<p>FR3.  ARDUINO. Arduino Nano Reference Manual. SKU: A000005.</p>
+<p>FR4.  ARDUINO. Arduino Nano Wiring Schematic. https://www.arduino.cc/en/uploads/Main/Arduino_Nano-Rev3.2-SCH.pdf.</p>
+<p>FR5.  TEXAS INSTRUMENTS. LM1117. Sheet No.: SNOS412Q &ndash; FEBRUARY 2000 &ndash; REVISED JANUARY 2023.</p>
+<p>FR6.  SHARP. PC817XxNSZ1B Series. Sheet No.: OP18002EN.</p>
+<p>FR7.  ATMEL. ATMega328p. Sheet No.: 7810D-AVR-01/15.</p>
+<p>FR8.  INFINEON. IRFP250NPbF. Sheet No.: Rev. 2.1, 2024-10-08.</p>
+<p>FR9.  Monk, S. (2017c). Electronics Cookbook: Using Phototransistors and Opto-isolators. [online] https://learning.oreilly.com. Available at: https://learning.oreilly.com/videos/electronics-cookbook [Accessed Apr. 2025].</p>
+<p>FR10.  Monk, S. (2017b). Electronics Cookbook: Power Supply Basics. [online] https://learning.oreilly.com. Available at: https://learning.oreilly.com/videos/electronics-cookbook [Accessed Apr. 2025].</p>
